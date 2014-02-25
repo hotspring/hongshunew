@@ -1,0 +1,166 @@
+body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, label, table, tbody, tr, td, img, div, dl, dt, dd, pre, input, select, textarea, fieldset, iframe,hr{ margin:0; padding:0;}
+body{color:#a4a4a4; font-size:12px; line-height:normal;}
+ul{ list-style-type:none;}
+a{color:#666666; text-decoration:none;}
+a:hover{text-decoration:underline;}
+em {font-style:normal;}
+table {border-collapse:collapse;border-spacing:0;}
+caption,th{text-align:left;}
+button{background:none; border:none; cursor:pointer;}
+ul{list-style-type:none;}
+ol{list-style-type:none;}
+*{margin:0px;padding:0px;}
+img{ border:0px;}
+.fixfloat{zoom:1}
+.red{ color:#ff2200;}
+.l{ float:left;}
+.r{ float:right;}
+.clear{ clear:both;}
+.clear10{ clear:both; height:10px;}
+
+.fullBg {position: fixed;top: 0;left: 0;overflow: hidden;}
+.content{ margin:0 auto; height:1100px; width:1920px;background:url(../images/bg02.jpg) no-repeat center top; position:relative;}
+.logo_01{ position:absolute; left:218px; top:112px; height:138px; width:111px;}
+.logo_02{ position:absolute; left:36px; top:322px; height:176px; width:458px;}     
+.nav_01{ position:absolute; left:103px; top:727px; height:220px; width:172px; background:url(../images/tip02.png) no-repeat;}     
+.nav_01 p{ padding-left:60px; line-height:31px; font-size:24px; color:#c95057; font-weight:bold; margin-bottom:42px; height:33px; padding-top:5px;}     
+.nav_01 p a{line-height:31px;color:#c95057; font-weight:bold;}     
+
+.menu_01{ position:absolute; left:500px; top:560px; height:238px; width:150px;}  
+.menu_02{ position:absolute; left:714px; top:168px; height:238px; width:150px;}  
+.menu_03{ position:absolute; left:1063px; top:226px; height:238px; width:150px;}  
+.menu_04{ position:absolute; left:1342px; top:332px; height:238px; width:150px;}  
+.menu_05{ position:absolute; left:1627px; top:226px; height:238px; width:150px;}  
+
+.menu_011{ position:absolute; left:565px; top:800px; height:100px; width:20px; color:#515151; font-size:24px; font-weight:bold;}  
+.menu_022{ position:absolute; left:779px; top:406px; height:100px; width:20px; color:#515151; font-size:24px; font-weight:bold;}    
+.menu_033{ position:absolute; left:1120px; top:460px;height:100px; width:20px; color:#515151; font-size:24px; font-weight:bold;}    
+.menu_044{ position:absolute; left:1407px; top:570px; height:238px; width:20px; color:#515151; font-size:24px; font-weight:bold;}    
+.menu_055{ position:absolute; left:1692px; top:464px; height:238px; width:20px; color:#515151; font-size:24px; font-weight:bold;}    
+
+.menu_01_1{ position:absolute; left:565px; top:800px; height:260px; width:210px; background:url(../images/fz.png) no-repeat;}    
+.menu_02_2{ position:absolute; left:680px; top:406px; height:260px; width:210px;}    
+
+.menu_02_21{ position:absolute; left:692px; top:505px; height:130px; width:30px; color:#fff; font-size:24px; font-weight:bold;}  
+.menu_02_22{ position:absolute; left:745px; top:535px; height:130px; width:30px; color:#fff; font-size:24px; font-weight:bold;}  
+.menu_02_23{ position:absolute; left:801px; top:535px; height:130px; width:30px; color:#fff; font-size:24px; font-weight:bold;}   
+.menu_02_24{ position:absolute; left:853px; top:505px; height:130px; width:30px; color:#fff; font-size:24px; font-weight:bold;}  
+
+.close{ height:26px; width:26px; position:absolute; right:27px; top:744px;}
+.mess_div{width:385px; height:280px; position:absolute; right:27px; top:772px; background:#fff;  filter:alpha(opacity=80); opacity:0.8;  overflow-y:scroll;}
+.message{ padding:10px 40px 30px 40px; height:200px;}
+.message h2{ clear:both; color:#c95057; text-align:center; border-bottom:1px solid #dfa7a1; font-size:24px; font-weight:bold; padding-bottom:10px; line-height:28px; margin-bottom:15px;}  
+.message .mscont{ clear:both; line-height:30px; color:#c95057; font-size:12px; font-family:"Microsoft YaHei"; }
+
+.cont2{ margin:0 auto; height:1100px; width:1920px;background:#f4f5f7; position:relative;}
+.cont2 .contleft{float:left;width:1800px; height:777px; padding-left:94px; padding-top:323px;background:url(../images/leftbg.png) no-repeat left top;}
+.cont2 .contright{ float:right; background:url(../images/rightbg.png) no-repeat right top; width:26px; height:1100px;}
+.ctmess{ float:left; width:477px; height:346px; background-color:#989698; padding: 27px 17px;}
+.ctmess .ctmcont{ border-left:1px solid #a7a5a7; border-right:1px solid #a7a5a7; clear:both;width:477px; height:346px;}
+.ctmess2{ float:left; width:477px; height:460px; background-color:#989698; padding: 27px 17px;}
+.ctmess2 .ctmcont{ border-left:1px solid #a7a5a7; border-right:1px solid #a7a5a7; clear:both;}
+
+.cont2 .contlt{ width:100%; height:777px; padding-top:323px;background:url(../images/hs02.jpg) no-repeat left top;}
+.cont2 .conths{ width:100%; height:777px; padding-top:323px;background:url(../images/hsbg.jpg) no-repeat left top;}
+.cont2 .conths4{width:100%; height:777px; padding-top:323px;background:url(../images/hs04.jpg) no-repeat left top;}
+.cont2 .conths1{ width:100%; height:777px; padding-top:323px;}
+
+.logo_001{ position:absolute; left:40px; top:952px; height:138px; width:111px;}
+.maps{ position:absolute; left:647px; top:70px; height:910px; width:999px; border:1px solid #e5c1bc;}
+.adds{ position:absolute; left:1675px; top:830px; height:26px; width:26px; }
+.plugs{ position:absolute; left:1675px; top:884px; height:26px; width:26px;}
+.mapsls{ position:absolute; left:47px; top:62px; height:914px; width:577px;}
+.maps2{ position:absolute; left:647px; top:70px; height:914px; width:1001px;}
+
+.hspic{ position:absolute; left:151px; top:227px; height:674px; width:775px;}
+
+.dmessage{ position:absolute; left:1058px; top:520px; height:300px; width:515px; line-height:30px}
+.dmessage h4{ clear:both; line-height:30px; margin-bottom:10px; font-size:20px; color:#000000; text-align:center}
+.dmessage p{ clear:both; line-height:30px; font-size:16px; color:#000000; text-align:center;}
+
+
+.hssage{ position:absolute; left:1112px; top:486px; height:300px; width:376px; line-height:30px}
+.hssage .h4{ clear:both; line-height:32px; margin-bottom:30px; padding:15px 0 15px 25px; font-size:30px; color:#000000; background:url(../images/yhs.png) no-repeat left top;}
+.hssage p{ clear:both; line-height:30px; font-size:16px; color:#000000; font-weight:bold;}
+
+
+.naver{ float:right; width:162px; padding-top:52px;}
+.tips{ background:url(../images/tip3.png) no-repeat;}
+.naver .navp{ clear:both; background-position:121px -94px; height:31px; margin-bottom:60px; cursor:pointer;}
+.naver .navp1{ clear:both; background-position:121px 0px; height:31px; margin-bottom:60px; cursor:pointer;}
+.navpchk{ background:url(../images/tip1.png) no-repeat; height:31px; width:100%; line-height:31px; font-size:20px; font-family:"Microsoft YaHei"; color:#fff; padding-left:15px;}
+.navpchk a{line-height:31px; font-size:20px; font-family:"Microsoft YaHei"; color:#fff; text-decoration:none;display: block;}
+.menus{ position:absolute; top:1020px; left:250px; height:60px; width:1600px;}
+.menus ul{ clear:both; height:60px;}
+.menus ul li{ text-align:center; line-height:40px;  float:left; padding:0 90px 20px 90px;}
+.menus ul li:hover{ background:url(../images/navbg.png) no-repeat center bottom;}
+.menus ul li:hover a{line-height:40px; color:#ca575b; font-size:22px; font-weight:bold;}
+.menus ul li a{line-height:40px; color:#534d4e; font-size:22px; font-weight:bold; text-decoration:none}
+
+.menus ul li.clk{ background:url(../images/navbg.png) no-repeat center bottom;}
+.menus ul li.clk a{line-height:40px; color:#ca575b; font-size:22px; font-weight:bold;}
+
+
+.tiptop{ clear:both; text-align:center; height:13px;}
+.tipmain{ padding:40px; height:240px;}
+.tipmain h3{ clear:both; line-height:30px; border-bottom:1px solid #a9a7a8; color:#fff; font-size:20px; font-weight:bold; padding-bottom:10px; margin-bottom:15px;}
+.tipmain .tipcont{ clear:both;color:#fff; font-size:16px; line-height:26px; }
+
+.tipmain1{ padding:40px; height:360px;}
+.tipmain1 h3{ clear:both; line-height:30px; border-bottom:1px solid #a9a7a8; color:#fff; font-size:20px; font-weight:bold; padding-bottom:10px; margin-bottom:15px;}
+.tipmain1 .tipcont{ clear:both;color:#fff; font-size:16px; line-height:28px; }
+
+.contact{ position:absolute; left:38px; top:38px; height:38px; width:228px;}
+.left{ position:absolute; left:28px; top:553px; height:105px; width:54px; cursor:pointer;}
+.right{ position:absolute; right:28px; top:553px; height:105px; width:54px; cursor:pointer;}
+
+.a1a{ position:absolute; left:426px; top:304px; height:202px; width:206px;}
+.a2a{ position:absolute; left:426px; top:508px; height:199px; width:206px;}
+.a3a{ position:absolute; left:635px; top:304px; height:202px; width:206px;}
+.a4a{ position:absolute; left:635px; top:508px; height:199px; width:206px;}
+.a5a{ position:absolute; left:837px; top:102px; height:199px; width:205px;}
+.a6a{ position:absolute; left:837px; top:304px; height:200px; width:205px;}
+.a7a{ position:absolute; left:837px; top:508px; height:199px; width:205px;}
+.a8a{ position:absolute; left:837px; top:710px; height:200px; width:205px;}
+.a9a{ position:absolute; left:1045px; top:102px; height:199px; width:205px;}
+.a10a{ position:absolute; left:1045px; top:304px; height:200px; width:205px;}
+.a11a{ position:absolute; left:1045px; top:508px; height:199px; width:205px;}
+.a12a{ position:absolute; left:1045px; top:710px; height:200px; width:205px;}
+.a13a{ position:absolute; left:1253px; top:102px; height:202px; width:206px;}
+.a14a{ position:absolute; left:1254px; top:571px; height:200px; width:200px;}
+.ztw{ position:absolute; left:1329px; top:391px; height:112px; width:266px;}
+.ztwcont{ position:absolute; left:1329px; top:503px; height:270px; width:410px;}
+.ztwcont h2{ clear:both; font-size:20px; line-height:30px; border-bottom:1px solid #444243; color:#444243; margin-bottom:10px;}
+.ztwcont p{ clear:both; font-size:16px; line-height:26px;  color:#444243; font-weight:300;}
+
+.ztw1{ position:absolute; left:1345px; top:352px; height:112px; width:266px;}
+.ztwcont1{ position:absolute; left:1345px; top:475px; height:360px; width:410px;}
+.ztwcont1 h2{ clear:both; font-size:20px; line-height:30px; border-bottom:1px solid #444243; color:#444243; margin-bottom:10px;}
+.ztwcont1 p{ clear:both; font-size:16px; line-height:26px;  color:#444243; font-weight:300;}
+
+.ztw2{ position:absolute; left:239px; top:210px; height:123px; width:676px;}
+.ztwcont2{ position:absolute; left:239px; top:333px; height:360px; width:480px;}
+.ztwcont2 h2{ clear:both; font-size:20px; line-height:30px; border-bottom:1px solid #444243; color:#444243; margin-bottom:10px;}
+.ztwcont2 p{ clear:both; font-size:16px; line-height:28px;  color:#444243; font-weight:300;}
+.b1a{ position:absolute; left:426px; top:100px; height:810px; width:1034px;}
+.c1a{ position:absolute; left:743px; top:100px; height:853px; width:936px;}
+.hssage_21{ position:absolute; left:1221px; top:521px; height:366px; width:366px; line-height:30px; text-align:center;}
+.hssage_21 .h3{ clear:both; line-height:32px; margin-bottom:30px; font-size:26px; color:#030000;}
+.hssage_21 p{ clear:both; line-height:32px; font-size:16px; padding:5px; color:#030000; margin-bottom:10px;}
+
+.d_21{ position:absolute; left:144px; top:133px; height:520px; width:511px; background:#949395;}
+.d_22{ position:absolute; left:144px; top:662px; height:250px; width:511px; }
+.d_23{ position:absolute; left:663px; top:133px; height:146px; width:1032px; }
+.d_24{ position:absolute; left:663px; top:289px; height:465px; width:1032px; }
+.d_25{ position:absolute; left:663px; top:764px; height:149px; width:1032px; }
+
+.e_33{ position:absolute; left:776px; top:203px; height:721px; width:871px; }
+.hssage_22{ position:absolute; left:134px; top:155px; height:460px; width:550px; line-height:30px; text-align:center;}
+.hssage_22 .h3{ clear:both; line-height:32px; margin-bottom:30px; font-size:26px; color:#030000;}
+.hssage_22 p{ clear:both; line-height:32px; font-size:16px; padding:5px; color:#030000; margin-bottom:10px;}
+
+
+.fe_33{ position:absolute; left:828px; top:232px; height:628px; width:823px; }
+.hssage_24{ position:absolute; left:134px; top:155px; height:460px; width:550px; line-height:30px; text-align:center;}
+.hssage_24 .h3{ clear:both; line-height:32px; margin-bottom:30px; font-size:26px; color:#030000;}
+.hssage_24 p{ clear:both; line-height:32px; font-size:16px; padding:5px; color:#030000; margin-bottom:10px;}
