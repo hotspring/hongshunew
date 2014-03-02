@@ -97,7 +97,7 @@ img{ border:0px;}
 .navera .navpa{ clear:both; background-position:161px -94px; height:31px; margin-bottom:60px; cursor:pointer;}
 .navera .navp1a{ clear:both; background-position:161px 0px; height:31px; margin-bottom:60px; cursor:pointer;}
 .navpchka{ background:url(../images/htip.png) no-repeat; height:31px; width:156px; line-height:31px; font-size:20px; font-family:"Microsoft YaHei"; color:#fff; padding-left:15px;}
-.navpchka a{line-height:31px; font-size:20px; font-family:"Microsoft YaHei"; color:#fff; text-decoration:none}
+.navpchka a{line-height:31px; font-size:20px; font-family:"Microsoft YaHei"; color:#fff; text-decoration:none;display:block;}
 
 
 .menus{ position:absolute; top:1020px; left:250px; height:60px; width:1600px;}
